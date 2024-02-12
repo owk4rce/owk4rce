@@ -10,7 +10,7 @@ However, my desire to proactively prevent issues rather than react to them drew 
 
 I am a highly motivated and results-oriented person with a strong attention to detail. I have a deep understanding of software development principles and user needs, and I am always looking for ways to improve the quality of products.
 
-Currently, I am an intern at the Yandex Practicum Programming Workshop as a QA team member. We are working on a pet project, a web application for providing psychological assistance. Over the past months, I have developed my skills in working without clear product requirements, creating all test documentation, analyzing tasks, and mastering automation skills. In my work, I use GitHub, DevTools, Postman, Qase.io and Figma.
+Currently, I am an intern at the Yandex Practicum Programming Workshop as a QA team member. We are working on a pet project, a <a href="https://github.com/py-psychological-help">web application for providing psychological assistance</a>. Over the past months, I have developed my skills in working without clear product requirements, creating all test documentation, analyzing tasks, and mastering automation skills. In my work, I use GitHub, DevTools, Postman, Qase.io and Figma.
 
 <!--
 **owk4rce/owk4rce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
